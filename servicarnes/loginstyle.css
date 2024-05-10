@@ -1,0 +1,16 @@
+.box{
+    background: linear-gradient(to left, rgba(255, 0, 0, 0.8), rgba(0, 0, 255, 0.6));
+    border-style: ridge;
+}
+
+.container{
+    text-align: center;
+}
+
+input[type="email"] {
+    display: block; /* Convertir en bloque para ocupar toda la línea */
+    margin: 0 auto;  }
+
+input[type="password"] {
+    display: block; /* Convertir en bloque para ocupar toda la línea */
+    margin: 0 auto;}
